@@ -1,0 +1,17 @@
+<svg width="600" height="800" viewBox="0 0 600 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="600" height="800" fill="#E8DED2"/>
+  
+  <!-- Decorative circles -->
+  <circle cx="150" cy="200" r="80" fill="#FAF8F5" opacity="0.5"/>
+  <circle cx="450" cy="600" r="100" fill="#C9A58C" opacity="0.3"/>
+  
+  <!-- Profile silhouette -->
+  <circle cx="300" cy="280" r="90" fill="#D4AF37" opacity="0.6"/>
+  <path d="M180 500 Q180 380 300 380 Q420 380 420 500 L420 650 Q420 700 300 700 Q180 700 180 650 Z" fill="#D4AF37" opacity="0.6"/>
+  
+  <!-- Text -->
+  <text x="300" y="750" font-family="serif" font-size="24" fill="#2C2C2C" text-anchor="middle" font-weight="600">
+    Add Your Photo Here
+  </text>
+</svg>

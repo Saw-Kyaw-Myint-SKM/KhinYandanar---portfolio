@@ -1,0 +1,150 @@
+{
+  "hero": {
+    "name": "Khin Yandanar",
+    "title": "Hospitality Professional",
+    "description": "A reliable and detail-oriented individual with hospitality knowledge and hands-on experience in business operations. Eager to learn, grow, and contribute effectively in a professional setting.",
+    "buttons": {
+      "primary": "View Experience",
+      "secondary": "Contact Me"
+    }
+  },
+  "about": {
+    "title": "About Me",
+    "description": "I am Khin Yandanar, a reliable and detail-oriented individual with hospitality knowledge and hands-on experience in business operations. I am eager to learn, grow, and contribute effectively in a professional setting.",
+    "stats": [
+      {
+        "number": "5+",
+        "label": "Years Experience",
+        "icon": "⏱️"
+      },
+      {
+        "number": "100%",
+        "label": "Dedication",
+        "icon": "💪"
+      },
+      {
+        "number": "3",
+        "label": "Languages",
+        "icon": "🌐"
+      },
+      {
+        "number": "∞",
+        "label": "Passion",
+        "icon": "❤️"
+      }
+    ]
+  },
+  "experience": {
+    "title": "Experience",
+    "subtitle": "My Journey",
+    "items": [
+      {
+        "title": "Self-employed",
+        "subtitle": "Own Small Business",
+        "period": "Current",
+        "description": "Managing daily operations and handling customers",
+        "responsibilities": [
+          "Managed daily operations and handled customers",
+          "Developed responsibility and time management skills"
+        ],
+        "icon": "💼"
+      }
+    ]
+  },
+  "skills": {
+    "title": "Skills & Expertise",
+    "subtitle": "What I Bring",
+    "categories": [
+      {
+        "title": "Hospitality Skills",
+        "icon": "🏨",
+        "skills": [
+          {
+            "name": "Basic knowledge of food preparation and kitchen hygiene",
+            "level": 85
+          },
+          {
+            "name": "Understanding of cleanliness and safety in the kitchen",
+            "level": 90
+          },
+          {
+            "name": "Good teamwork and communication skills",
+            "level": 88
+          },
+          {
+            "name": "Ability to follow instructions and work under pressure",
+            "level": 85
+          }
+        ]
+      },
+      {
+        "title": "Languages",
+        "icon": "🌐",
+        "skills": [
+          {
+            "name": "Basic Chinese Language",
+            "level": 60
+          },
+          {
+            "name": "Basic English (Intermediate Level)",
+            "level": 70
+          }
+        ]
+      },
+      {
+        "title": "Computer Skills",
+        "icon": "💻",
+        "skills": [
+          {
+            "name": "Basic Computer Skills (Microsoft Word, Excel)",
+            "level": 75
+          }
+        ]
+      }
+    ]
+  },
+  "education": {
+    "title": "Education",
+    "subtitle": "Academic Background",
+    "items": [
+      {
+        "degree": "Advanced Diploma in Hospitality Management",
+        "institution": "Hospitality Institute",
+        "year": "2023",
+        "icon": "🎓"
+      },
+      {
+        "degree": "Bachelor of Science (Mathematics Major)",
+        "institution": "Dagon University",
+        "year": "2020",
+        "icon": "📐"
+      },
+      {
+        "degree": "LCCI Level 2 (Accounting)",
+        "institution": "London Chamber of Commerce",
+        "year": "2019",
+        "icon": "📊"
+      }
+    ],
+    "continuousLearning": {
+      "title": "Continuous Learning",
+      "description": "Committed to professional development and staying current with industry best practices in hospitality management, customer service excellence, and business operations.",
+      "icon": "📚"
+    }
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "subtitle": "Let's Connect",
+    "description": "I'm always open to discussing new opportunities in hospitality and customer service. Let's create something exceptional together!",
+    "email": "khinyandanar@gmail.com",
+    "phone": "09442628185",
+    "address": "Yangon, North Okkalapa Township, Thukha Ayeik Myo, Myanmar (M) Street",
+    "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d122133.23422193394!2d96.08708842089844!3d16.866068800000007!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30c1949e223e196b%3A0x56fbd271f8080bb4!2sNorth%20Okkalapa%2C%20Yangon%2C%20Myanmar%20(Burma)!5e0!3m2!1sen!2s!4v1234567890123!5m2!1sen!2s",
+    "cta": {
+      "title": "Ready to Start a Conversation?",
+      "description": "Available for full-time positions in hospitality, customer service, and business operations",
+      "buttonText": "Send Me an Email",
+      "icon": "💌"
+    }
+  }
+}
